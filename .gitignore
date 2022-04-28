@@ -73,3 +73,6 @@ fabric.properties
 
 bin/Debug
 obj/Debug
+
+bin/
+obj/
