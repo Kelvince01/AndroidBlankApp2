@@ -71,8 +71,11 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
-bin/Debug/
-obj/Debug/
-
-bin/
-obj/
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+# build folder is nowadays used for build scripts and should not be ignored
+#build/
