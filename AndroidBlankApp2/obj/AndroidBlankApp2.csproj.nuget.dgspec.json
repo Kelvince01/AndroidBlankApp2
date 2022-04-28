@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kelvi\\RiderProjects\\Samples\\AndroidBlankApp2\\AndroidBlankApp2\\AndroidBlankApp2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kelvi\\RiderProjects\\Samples\\AndroidBlankApp2\\AndroidBlankApp2\\AndroidBlankApp2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kelvi\\RiderProjects\\Samples\\AndroidBlankApp2\\AndroidBlankApp2\\AndroidBlankApp2.csproj",
+        "projectName": "AndroidBlankApp2",
+        "projectPath": "C:\\Users\\kelvi\\RiderProjects\\Samples\\AndroidBlankApp2\\AndroidBlankApp2\\AndroidBlankApp2.csproj",
+        "packagesPath": "C:\\Users\\kelvi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kelvi\\RiderProjects\\Samples\\AndroidBlankApp2\\AndroidBlankApp2\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kelvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Microsoft.AppCenter.Analytics": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
